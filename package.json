@@ -1,0 +1,9 @@
+{
+  "name": "cmcl-client-launcher",
+  "version": "0.1",
+  "description": "A powerful Minecraft launcher designed for Shells & Convenient MCL",
+  "main": "index.js",
+  "repository": "https://github.com/cmcl-dev/cmcl-client-launcher.git",
+  "author": "liumingedwin <liumingedwin@163.com>",
+  "license": "GPL-2.0"
+}
